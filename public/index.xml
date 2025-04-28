@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2025, Alex J.</copyright>
-    <lastBuildDate>Mon, 28 Apr 2025 14:24:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 14:33:54 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Untitled</title>
+      <link>/blog/untitled/</link>
+      <pubDate>Mon, 28 Apr 2025 14:33:54 +0000</pubDate>
+      <guid>/blog/untitled/</guid>
+      <description>&lt;p&gt;This is a test of a second article!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Taking Back My Day Off - Physical Anchors in a Digital World</title>
       <link>/blog/taking-back-my-day-off---physical-anchors-in-a-digital-world/</link>
