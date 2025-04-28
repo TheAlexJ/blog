@@ -1,8 +1,10 @@
-+++
-date = '2025-04-28T12:48:53-04:00'
-draft = false
-title = 'Physical Anchors in a Digital World'
-+++
+---
+title: "Taking Back My Day Off - Physical Anchors in a Digital World"
+date: 2025-04-28T14:24:46
+author: "Alex J"
+draft: false
+---
+
 I called out of work today with the honest intention of relaxing. Hours later, I'm still caught in an endless cycle of digital consumption. I've been scrolling mindlessly through Instagram, bouncing between random YouTube videos about gaming, writing, and coding. My leg bounces on our oversized ottoman. My fingers drum against my coffee cup. The silence of my townhouse feels like an accusation.
 
 This is the peculiar paradox of days off with ADHD. The freedom that should feel liberating instead feels disorienting. My mind craves both stimulation and rest simultaneously, finding neither in the endless digital options surrounding me.

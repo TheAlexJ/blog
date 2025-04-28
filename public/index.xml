@@ -2,19 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AlexJ.blog</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on AlexJ.blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2025, Alex J.</copyright>
-    <lastBuildDate>Mon, 28 Apr 2025 12:48:53 -0400</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Apr 2025 14:24:46 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Physical Anchors in a Digital World</title>
-      <link>//localhost:1313/blog/physical-anchors-in-a-digital-world/</link>
-      <pubDate>Mon, 28 Apr 2025 12:48:53 -0400</pubDate>
-      <guid>//localhost:1313/blog/physical-anchors-in-a-digital-world/</guid>
+      <title>Taking Back My Day Off - Physical Anchors in a Digital World</title>
+      <link>/blog/taking-back-my-day-off---physical-anchors-in-a-digital-world/</link>
+      <pubDate>Mon, 28 Apr 2025 14:24:46 +0000</pubDate>
+      <guid>/blog/taking-back-my-day-off---physical-anchors-in-a-digital-world/</guid>
       <description>&lt;p&gt;I called out of work today with the honest intention of relaxing. Hours later, I&amp;rsquo;m still caught in an endless cycle of digital consumption. I&amp;rsquo;ve been scrolling mindlessly through Instagram, bouncing between random YouTube videos about gaming, writing, and coding. My leg bounces on our oversized ottoman. My fingers drum against my coffee cup. The silence of my townhouse feels like an accusation.&lt;/p&gt;&#xA;&lt;p&gt;This is the peculiar paradox of days off with ADHD. The freedom that should feel liberating instead feels disorienting. My mind craves both stimulation and rest simultaneously, finding neither in the endless digital options surrounding me.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;h1 id=&#34;about-alexjblog&#34;&gt;About AlexJ.blog&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my personal corner of the internet. I&amp;rsquo;m Alex, and this blog is where I share essays and observations about life, creativity, and the small moments that often go unnoticed.&lt;/p&gt;&#xA;&lt;p&gt;I started this blog as a place to explore thoughts that deserve more space than a social media post but don&amp;rsquo;t quite fit anywhere else. It&amp;rsquo;s a space for reflection, curiosity, and occasional insight.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-write-about&#34;&gt;What I Write About&lt;/h2&gt;&#xA;&lt;p&gt;My writing tends to wander through various interests and experiences:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
