@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2025, Alex J.</copyright>
-    <lastBuildDate>Mon, 28 Apr 2025 14:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 14:34:19 +0000</lastBuildDate>
     <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Changed article name</title>
+      <link>/blog/changed-article-name/</link>
+      <pubDate>Mon, 28 Apr 2025 14:34:19 +0000</pubDate>
+      <guid>/blog/changed-article-name/</guid>
+      <description>&lt;p&gt;This is a test of a second article!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Untitled</title>
       <link>/blog/untitled/</link>
