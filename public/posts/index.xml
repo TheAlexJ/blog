@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AlexJ.blog</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on AlexJ.blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Alex J.</copyright>
+    <lastBuildDate>Mon, 28 Apr 2025 12:48:53 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Physical Anchors in a Digital World</title>
+      <link>//localhost:1313/posts/physical-anchors-in-a-digital-world/</link>
+      <pubDate>Mon, 28 Apr 2025 12:48:53 -0400</pubDate>
+      <guid>//localhost:1313/posts/physical-anchors-in-a-digital-world/</guid>
+      <description>&lt;p&gt;I called out of work today with the honest intention of relaxing. Hours later, I&amp;rsquo;m still caught in an endless cycle of digital consumption. I&amp;rsquo;ve been scrolling mindlessly through Instagram, bouncing between random YouTube videos about gaming, writing, and coding. My leg bounces on our oversized ottoman. My fingers drum against my coffee cup. The silence of my townhouse feels like an accusation.&lt;/p&gt;&#xA;&lt;p&gt;This is the peculiar paradox of days off with ADHD. The freedom that should feel liberating instead feels disorienting. My mind craves both stimulation and rest simultaneously, finding neither in the endless digital options surrounding me.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
