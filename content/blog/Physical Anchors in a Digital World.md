@@ -1,6 +1,6 @@
 ---
-title: "Taking Back My Day Off - Physical Anchors in a Digital World"
-date: 2025-04-28T14:24:46
+title: "Physical Anchors in a Digital World"
+date: 2025-04-28T14:44:17
 author: "Alex J"
 draft: false
 ---

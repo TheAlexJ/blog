@@ -21,7 +21,6 @@ pygmentsStyle = "tango"
 
 # Set the blog section as the main content
 # This makes the blog posts appear on the home page
-mainSections = ["blog"]
 
 # Enable HTML in Markdown
 [markup]
